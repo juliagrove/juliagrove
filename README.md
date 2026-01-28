@@ -5,11 +5,8 @@ AI-focused Software Engineer building end-to-end AI and Machine Learning applica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliagrove)
 
-</div>
 
 ---
-
-<div align="center">
 
 ## Skills
 
