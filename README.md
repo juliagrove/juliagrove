@@ -1,10 +1,11 @@
 <div align="center">
 
 ## Hi, I'm Julia!
-AI focused Software Engineer building end-to-end applications. 
+**AI/ML focused Software Engineer**
 
-Currently, my focus is on learning Agentic AI Design Patterns and building Agentic Systems.
+I enjoy learning about all things AI - from Data Analytics and traditional machine learning to the more modern hype of agentic AI and agentic systems. I love keeping up with this rapidly evolving technology!
 
+Happy to connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliagrove)
 
 ---
